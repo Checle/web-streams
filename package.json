@@ -1,5 +1,6 @@
 {
-  "private": true,
+  "name": "web-streams",
+  "version": "0.0.1",
   "description": "Reference implementation and tests for the WHATWG Streams Standard",
   "scripts": {
     "pretest": "bash ./update-web-platform-tests.sh",
